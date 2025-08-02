@@ -44,9 +44,8 @@ This project demonstrates automatic vehicle number plate detection using OpenCV'
 
 ## ⚙️ Getting Started
 
-### 1. Clone the Repository
+**Clone the Repository**
 
-```bash
 git clone https://github.com/akshay20496/number-plate-detection-haarcascade-opencv-streamlit.git
 cd number-plate-detection-haarcascade-opencv-streamlit
 
